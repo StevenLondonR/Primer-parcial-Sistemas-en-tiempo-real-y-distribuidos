@@ -1,0 +1,11 @@
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\bin\Debug\net8.0\CalcularPrefija.deps.json
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\bin\Debug\net8.0\CalcularPrefija.dll
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\bin\Debug\net8.0\CalcularPrefija.pdb
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\obj\Debug\net8.0\CalcularPrefija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\obj\Debug\net8.0\CalcularPrefija.AssemblyInfoInputs.cache
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\obj\Debug\net8.0\CalcularPrefija.AssemblyInfo.cs
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\obj\Debug\net8.0\CalcularPrefija.csproj.CoreCompileInputs.cache
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\obj\Debug\net8.0\CalcularPrefija.dll
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\obj\Debug\net8.0\refint\CalcularPrefija.dll
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\obj\Debug\net8.0\CalcularPrefija.pdb
+C:\Users\WatsonLevi\source\repos\Ejercicio8\CalcularPrefija\obj\Debug\net8.0\ref\CalcularPrefija.dll

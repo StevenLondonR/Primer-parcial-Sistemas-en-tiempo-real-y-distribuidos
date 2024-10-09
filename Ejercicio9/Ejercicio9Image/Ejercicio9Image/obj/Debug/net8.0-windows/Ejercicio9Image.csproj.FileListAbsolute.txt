@@ -1,0 +1,16 @@
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\bin\Debug\net8.0-windows\Ejercicio9Image.exe
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\bin\Debug\net8.0-windows\Ejercicio9Image.deps.json
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\bin\Debug\net8.0-windows\Ejercicio9Image.runtimeconfig.json
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\bin\Debug\net8.0-windows\Ejercicio9Image.dll
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\bin\Debug\net8.0-windows\Ejercicio9Image.pdb
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\Ejercicio9Image.Form1.resources
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\Ejercicio9Image.csproj.GenerateResource.cache
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\Ejercicio9Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\Ejercicio9Image.AssemblyInfoInputs.cache
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\Ejercicio9Image.AssemblyInfo.cs
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\Ejercicio9Image.csproj.CoreCompileInputs.cache
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\Ejercicio9Image.dll
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\refint\Ejercicio9Image.dll
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\Ejercicio9Image.pdb
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\Ejercicio9Image.genruntimeconfig.cache
+C:\Users\WatsonLevi\source\repos\Ejercicio9Image\Ejercicio9Image\obj\Debug\net8.0-windows\ref\Ejercicio9Image.dll
